@@ -1,2 +1,3 @@
-# my-recipes
-just my cooking recipes
+# 一人食菜谱合集
+
+只是用来记录自己给自己做饭吃的过程
