@@ -9,7 +9,7 @@ servings: 1
 # sourceLabel: BBC good food
 # sourceURL: https://www.bbc.co.uk/food/recipes/richchocolatebrownie_1933/
 ingredients:
-  - 鸡胸肉一块
+  - 鸡胸肉 1 块
   - 土豆 1 个
   - 大蒜子 1/2 个
   - 食用油 60 毫升

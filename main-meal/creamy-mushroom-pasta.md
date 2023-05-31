@@ -9,14 +9,14 @@ servings: 1
 # sourceLabel: BBC good food
 # sourceURL: https://www.bbc.co.uk/food/recipes/richchocolatebrownie_1933/
 ingredients:
-  - 意面 250 克
-  - 培根 4 片
-  - 洋葱 1/2 个
-  - 口蘑 6 个
+  - 意面 125 克
+  - 培根 2 片
+  - 洋葱 1/4 个
+  - 口蘑 4 个
   - 黄油 1 小块
-  - 淡奶油 200 毫升
+  - 淡奶油 80 毫升
   - 盐 1 勺
-  - 黑胡椒 6 圈
+  - 黑胡椒 4 圈
 ---
 
 意面提前煮好
