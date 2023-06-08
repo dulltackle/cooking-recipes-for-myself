@@ -10,7 +10,7 @@ servings: 1
 # sourceURL: https://www.bbc.co.uk/food/recipes/richchocolatebrownie_1933/
 ingredients:
   - 虾滑 1 包
-  - 大青椒 1 个
+  - 长青椒 2 个
   - 大蒜子 1/2 个
   - 水淀粉 1/2 碗
   - 油 40 毫升
@@ -24,7 +24,7 @@ ingredients:
 
 将虾滑装入大青椒后切段
 
-热锅冷油, 将虾肉面煎至金黄, 将辣椒面煎出虎皮后取出
+热锅冷油, 将辣椒面煎出虎皮后, 将虾肉面煎至金黄取出
 
 大蒜子切丁, 调水淀粉
 
